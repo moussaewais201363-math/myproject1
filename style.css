@@ -1,7 +1,7 @@
 h1 {
     display: block;
     color:color-mix(in srgb, red 70%, aqua 20%);
-    background: yellow;
+    background: green;
 };
 
 body {

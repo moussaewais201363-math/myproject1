@@ -1,1 +1,1 @@
-alert("Hello!");
+alert("Hello in the New version!");
